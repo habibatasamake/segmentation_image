@@ -1,0 +1,10 @@
+# On ne veut pas partager les données
+Ensimag-SlicesPneumothorax/*
+
+.DS_Store
+.spyproject/
+INTERRUPTED.pth
+__pycache__/*
+unet/__pycache__/*
+utils/__pycache__/*MODEL.pth
+Test.ipynb
