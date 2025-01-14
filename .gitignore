@@ -8,3 +8,4 @@ __pycache__/*
 unet/__pycache__/*
 utils/__pycache__/*MODEL.pth
 Test.ipynb
+GenSlices-2
